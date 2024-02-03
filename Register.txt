@@ -1,1 +1,2 @@
 This is register page
+User have register on this page.
