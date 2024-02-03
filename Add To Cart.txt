@@ -1,2 +1,3 @@
 This is Add To Cart page
 New Product has been added to cart
+I have purchesed new product
